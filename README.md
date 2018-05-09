@@ -10,7 +10,7 @@
 
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| __Array__, __Hash Table__
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_
 
 
 
