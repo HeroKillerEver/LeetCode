@@ -8,9 +8,9 @@
 
 ## Problems Based on frequencies
 
-|NO.|Title|Solution|Note|Difficulty|
-|---|-----|--------|----|----------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| __Array__, __Hash Table__
 
 
 
