@@ -11,7 +11,8 @@
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_  
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ 
+|13| [Roman to Intergers](https://leetcode.com/problems/roman-to-integer/description/)| [Python](013-roman-to-integer/solution.py)|[Note](013-roman-to-integer/README.md)| easy| O(n)| O(n)| _string_
 
 
 
