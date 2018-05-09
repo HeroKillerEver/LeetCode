@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-[LeetCode](https://leetcode.com/problemset/algorithms/) is really a fantastic platform for practicing Algorithms + Data Structures, this repository is mainly used to recite my idea and others ideas of solving leetcode problems. I will try my best to update this repository regularly. Give me :+1 :+1 :+1. 
+[LeetCode](https://leetcode.com/problemset/algorithms/) is really a fantastic platform for practicing Algorithms + Data Structures, this repository is mainly used to recite my idea and others ideas of solving leetcode problems. I will try my best to update this repository regularly. Give me :+1: :+1: :+1:. 
 
 
 
