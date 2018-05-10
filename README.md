@@ -8,7 +8,7 @@
 
 ## Problems based on frequency
 
-|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+| NO. | Title | Solution | Note | Difficulty | Time Complexity | Space Complexity |Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ 
