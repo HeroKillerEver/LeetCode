@@ -25,7 +25,7 @@ is just the candidate we are looking for.
 
 ### 3. Boyer-Moore Voting Algorithm
 
-The idea is similar to [Stack](### 2. Stack)
+The idea is similar to [Stack](https://github.com/HeroKillerEver/LeetCode/blob/master/169-majority-element/README.md#2-stack)
 
 > this takes `O(n)` time and `O(1)` space
 
