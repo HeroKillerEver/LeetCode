@@ -7,7 +7,6 @@ class Solution(object):
         dic = {}
         for num in nums:
             dic.setdefault(num, 0)
-        for num in nums:
             dic[num] += 1
         return max(dic.keys(), key=dic.get)
 
