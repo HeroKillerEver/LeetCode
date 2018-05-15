@@ -16,6 +16,7 @@
 |30|(53)| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Pythin](053-maximum-subarray/solution.py) | [Note](053-maximum-subarray/README.md) | easy | O(n) | O(1) | _dynamical programming_|
 |34|(169)| [Majority Elememnt](https://leetcode.com/problems/majority-element/description/) | [Python](169-majority-element/solution.py) | [Note](169-majority-element/README.md) | easy | O(n) | O(1) | _array_ |
 |82| (219)| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](219-contains-duplicate-ii/solution.py) | [Note](219-contains-duplicate-ii/README.md) | easy | O(n) | O(n) | _hash table_ | 
+|126| (268) | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](268-missing-number/solution.py) | [Note](268-missing-number/README.md) | easy | O(n) | O(1) | _bit manipulation_ | 
 |142|(287)| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Python](287-find-duplicate-number/solution.py) | [Note](287-find-duplicate-number/README.md) | medium | O(n) | O(1) | _cycle detection_ |
 |149|(89)| [Gray Code](https://leetcode.com/problems/gray-code/description/)| [Python](89-gray-code/solution.py) | [Note](89-gray-code/README.md) | medium | O(2^n) | O(2^n) | _recursion_ |  
 |184|(717)| [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](717-bit-characters/solution.py) | [Note](717-bit-characters/README.md) | easy | O(n) | O(1) | _array_ | 
