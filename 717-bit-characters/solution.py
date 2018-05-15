@@ -17,7 +17,7 @@ class Solution(object):
         return bits == [0]
 
 class Solution(object):
-    def isOneBitCharacter_1(self, bits):
+    def isOneBitCharacter_2(self, bits):
         """
         :type bits: List[int]
         :rtype: bool
