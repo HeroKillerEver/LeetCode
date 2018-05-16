@@ -13,6 +13,7 @@
 |1|(001)|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_ |
 |2|(002)|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ |
 |3|(013)| [Roman to Intergers](https://leetcode.com/problems/roman-to-integer/description/)| [Python](013-roman-to-integer/solution.py)|[Note](013-roman-to-integer/README.md)| easy| O(n)| O(n)| _string_ |
+|29| (104) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Python](104-maximum-depth-binary-tree/solution.py) | [Note](104-maximum-depth-binary-tree/README.md) | easy | O(n) | O(n) | _DFS, BFS_ | 
 |30|(053)| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Pythin](053-maximum-subarray/solution.py) | [Note](053-maximum-subarray/README.md) | easy | O(n) | O(1) | _dynamical programming_|
 |34|(169)| [Majority Elememnt](https://leetcode.com/problems/majority-element/description/) | [Python](169-majority-element/solution.py) | [Note](169-majority-element/README.md) | easy | O(n) | O(1) | _array_ |
 |82| (219)| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](219-contains-duplicate-ii/solution.py) | [Note](219-contains-duplicate-ii/README.md) | easy | O(n) | O(n) | _hash table_ | 
@@ -25,6 +26,7 @@
 |221|(215)| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| [Python](215-K-largest-element/solution.py)|[Note](215-K-largest-element/README.md) | medium | O(k+(n-k)*lgk) | O(k) | _heap_ |
 |322|(074)| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)| [Python](074-search-matrix/solution.py) | [Note](074-search-matrix/README.md)| medium | O(lgmn) | O(1) | _binary search_|
 |458|(718)| [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [Python](718-maximum-repeated-subarray/solution.py) | [Note](718-maximum-repeated-subarray/README.md) | medium | O(mn) | O(mn) | _dynamical programming_| 
+|562| (791) | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Python](791-custom-sort-string/solution.py) | [Note](791-custom-sort-string/README.md) | medium | O(nlgn) | O(1) | _string_ | 
 
 
 
