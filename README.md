@@ -30,6 +30,5 @@
 |458|(718)| [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [Python](718-maximum-repeated-subarray/solution.py) | [Note](718-maximum-repeated-subarray/README.md) | medium | O(mn) | O(mn) | _dynamical programming_| 
 |562| (791) | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Python](791-custom-sort-string/solution.py) | [Note](791-custom-sort-string/README.md) | medium | O(nlgn) | O(1) | _string_ | 
 |725| (835) | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Python](835-image-overlap/solution.py) | [Note](835-image-overlap/README.md) | medium | O(n^4) | O(n^2) | _string_ |
-
-
+|753| (831) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Python](831-masking-personal-information/solution.py) | [Note](831-masking-personal-information/README.md) | medium | O(1) | O(1) | _string_ |
 
