@@ -13,6 +13,7 @@
 |1|(001)|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_ |
 |2|(002)|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ |
 |3|(013)| [Roman to Intergers](https://leetcode.com/problems/roman-to-integer/description/)| [Python](013-roman-to-integer/solution.py)|[Note](013-roman-to-integer/README.md)| easy| O(n)| O(n)| _string_ |
+|4| (344) | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](344-reverse-string/solution.py) | [Note](344-reverse-string/README.md) | easy | O(n) | O(1) | _string_ |
 |29| (104) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Python](104-maximum-depth-binary-tree/solution.py) | [Note](104-maximum-depth-binary-tree/README.md) | easy | O(n) | O(n) | _DFS, BFS_ | 
 |30|(053)| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Pythin](053-maximum-subarray/solution.py) | [Note](053-maximum-subarray/README.md) | easy | O(n) | O(1) | _dynamical programming_|
 |34|(169)| [Majority Elememnt](https://leetcode.com/problems/majority-element/description/) | [Python](169-majority-element/solution.py) | [Note](169-majority-element/README.md) | easy | O(n) | O(1) | _array_ |
