@@ -44,4 +44,7 @@
 |725| (835) | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Python](835-image-overlap/solution.py) | [Note](835-image-overlap/README.md) | medium | O(n^4) | O(n^2) | _string_ |
 |753| (831) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Python](831-masking-personal-information/solution.py) | [Note](831-masking-personal-information/README.md) | medium | O(1) | O(1) | _string_ |
 |769| (832) | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](832-flip-an-image/solution.py) | [Note](832-flip-an-image/README.md) | easy | O(n) | O(1) | _array_ | 
+|800| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
+|801| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
+|802| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
 
