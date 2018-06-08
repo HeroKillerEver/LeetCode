@@ -46,8 +46,9 @@
 |753| (831) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Python](831-masking-personal-information/solution.py) | [Note](831-masking-personal-information/README.md) | medium | O(1) | O(1) | _string_ |
 |768| (824) | [Goat Latin](https://leetcode.com/problems/goat-latin) | [Python](824-goat-latin/solution.py) | [Note](824-goat-latin/README.md) | easy | O(n) | O(n) | _string_ |
 |769| (832) | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](832-flip-an-image/solution.py) | [Note](832-flip-an-image/README.md) | easy | O(n) | O(1) | _array_ | 
-|800| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
-|801| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
-|802| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
+|791| (808) | [Soup Servings](https://leetcode.com/problems/soup-servings) | [Python](808-soup-servings/solution.py) | [Note](808-soup-servings/README.md) | medium | O(mn) | O(mn) |_dynamical programming_|
+|801| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
+|802| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
+|803| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
 
 
