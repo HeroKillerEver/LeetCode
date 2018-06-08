@@ -40,6 +40,7 @@
 |490| (513) | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Python](513-find-bottom-left-tree-value/solution.py) | [Note](513-find-bottom-left-tree-value/README.md) | medium | O(lgn) | O(lgn) | _BFS, DFS_ | 
 |551| (515) | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [Python](515-find-largest-value-in-each-row/solution.py) | [Note](515-find-largest-value-in-each-row/README.md) | medium | O(n) | O(1) | _BFS_ | 
 |562| (791) | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Python](791-custom-sort-string/solution.py) | [Note](791-custom-sort-string/README.md) | medium | O(nlgn) | O(1) | _string_ | 
+|685| (576) | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [Python](576-out-of-boundary-paths/solution.py) | [Note](576-out-of-boundary-paths/README.md) | medium | O(Nmn) | O(Nmn) | _dynamical programming_ | 
 |696| (829) | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) | [Python](829-consecutive-numbers-sum/solution.py) | [Note](829-consecutive-numbers-sum/README.md) | medium | O(sqrt(N)) | O(1) | _math_ |
 |725| (835) | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Python](835-image-overlap/solution.py) | [Note](835-image-overlap/README.md) | medium | O(n^4) | O(n^2) | _string_ |
 |753| (831) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Python](831-masking-personal-information/solution.py) | [Note](831-masking-personal-information/README.md) | medium | O(1) | O(1) | _string_ |
@@ -48,5 +49,5 @@
 |800| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
 |801| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
 |802| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
-|685| (576) | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [Python](576-out-of-boundary-paths/solution.py) | [Note](576-out-of-boundary-paths/README.md) | medium | O(Nmn) | O(Nmn) | _dynamical programming_ | 
+
 
