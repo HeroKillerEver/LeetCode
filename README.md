@@ -52,5 +52,6 @@
 |801| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
 |802| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
 |803| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
+|804| (840) | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Python](840-magic-squares-in-grid/solution.py) | [Note](840-magic-squares-in-grid/README.md) | easy | O(mn) | O(1) | _array_ | 
 
 
