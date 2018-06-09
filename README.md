@@ -10,8 +10,8 @@
 
 | Top | NO. | Title | Solution | Note | Difficulty | Time Complexity | Space Complexity |Tag|
 |---|---|-----|--------|----|----------|----|-----|---|
-|1|(001)|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](001-two-sum/solution.py)|[Note](001-two-sum/README.md)| easy | O(n) | O(n)| _Array_, _Hash Table_ |
-|2|(002)|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ |
+|1| (001) | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](001-two-sum/solution.py) | [Note](001-two-sum/README.md) | easy | O(n) | O(n)| _Array_, _Hash Table_ |
+|2| (002) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |[Python](002-add-two-numbers/solution.py)|[Note](002-add-two-numbers/README.md)| medium | O(m+n)| O(m+n)| _linked list_ |
 |3|(013)| [Roman to Intergers](https://leetcode.com/problems/roman-to-integer/description/)| [Python](013-roman-to-integer/solution.py)|[Note](013-roman-to-integer/README.md)| easy| O(n)| O(n)| _string_ |
 |4| (344) | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](344-reverse-string/solution.py) | [Note](344-reverse-string/README.md) | easy | O(n) | O(1) | _string_ |
 |29| (104) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Python](104-maximum-depth-of-binary-tree/solution.py) | [Note](104-maximum-depth-of-binary-tree/README.md) | easy | O(n) | O(n) | _DFS, BFS_ | 
@@ -48,12 +48,13 @@
 |696| (829) | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) | [Python](829-consecutive-numbers-sum/solution.py) | [Note](829-consecutive-numbers-sum/README.md) | medium | O(sqrt(N)) | O(1) | _math_ |
 |725| (835) | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Python](835-image-overlap/solution.py) | [Note](835-image-overlap/README.md) | medium | O(n^4) | O(n^2) | _string_ |
 |753| (831) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Python](831-masking-personal-information/solution.py) | [Note](831-masking-personal-information/README.md) | medium | O(1) | O(1) | _string_ |
-|768| (824) | [Goat Latin](https://leetcode.com/problems/goat-latin) | [Python](824-goat-latin/solution.py) | [Note](824-goat-latin/README.md) | easy | O(n) | O(n) | _string_ |
-|769| (832) | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](832-flip-an-image/solution.py) | [Note](832-flip-an-image/README.md) | easy | O(n) | O(1) | _array_ | 
-|791| (808) | [Soup Servings](https://leetcode.com/problems/soup-servings) | [Python](808-soup-servings/solution.py) | [Note](808-soup-servings/README.md) | medium | O(mn) | O(mn) |_dynamical programming_|
-|801| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
-|802| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
-|803| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
-|804| (840) | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Python](840-magic-squares-in-grid/solution.py) | [Note](840-magic-squares-in-grid/README.md) | easy | O(mn) | O(1) | _array_ | 
+|763| (841) | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](841-keys-and-rooms/solution.py) | [Note](841-keys-and-rooms/README.md) | medium | O(n) | O(n) | _BFS_, _DFS_ |
+|769| (824) | [Goat Latin](https://leetcode.com/problems/goat-latin) | [Python](824-goat-latin/solution.py) | [Note](824-goat-latin/README.md) | easy | O(n) | O(n) | _string_ |
+|770| (832) | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](832-flip-an-image/solution.py) | [Note](832-flip-an-image/README.md) | easy | O(n) | O(1) | _array_ | 
+|792| (808) | [Soup Servings](https://leetcode.com/problems/soup-servings) | [Python](808-soup-servings/solution.py) | [Note](808-soup-servings/README.md) | medium | O(mn) | O(mn) |_dynamical programming_|
+|802| (836) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Python](836-rectangle-overlap/solution.py) | [Note](836-rectangle-overlap/README.md) | easy | O(1) | O(1) | _array_ |
+|803| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
+|804| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
+|805| (840) | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Python](840-magic-squares-in-grid/solution.py) | [Note](840-magic-squares-in-grid/README.md) | easy | O(mn) | O(1) | _array_ | 
 
 
