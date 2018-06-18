@@ -59,8 +59,7 @@
 |803| (838) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description) | [Python](838-push-dominoes/solution.py) | [Note](838-push-dominoes/README.md) | medium | O(n) | O(n) | _dynamical programming_ | 
 |804| (837) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | [Python](837-new-21-game/solution.py) | [Note](837-new-21-game/README.md) | medium | O(n) | O(n) | _dynamical programming_ |
 |805| (840) | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Python](840-magic-squares-in-grid/solution.py) | [Note](840-magic-squares-in-grid/README.md) | easy | O(mn) | O(1) | _array_ | 
-|808| (844) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](844-backspace-string-compare/solution.py) | [Note](844-backspace-string-compare/README.md) | O(n) | O(n) | _stack_ |
+|808| (844) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](844-backspace-string-compare/solution.py) | [Note](844-backspace-string-compare/README.md) | medium | O(n) | O(n) | _stack_ |
 |811| (848) | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python](848-shifting-letters/solution.py) | [Note](848-shifting-letters/README.md) | medium | O(n) | O(n) | _array_ | 
 |814| (851) | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [Python](851-loud-and-rich/solution.py) | [Note](851-loud-and-rich/README.md) | medium | O(V+E) | O(V+E) | _dp, dfs_ |
- 
-
+ |816| (853) | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](853-car-fleet/solution.py) | [Note](853-car-fleet/README.md) | medium | O(nlgn) | O(n) |_array_ |
