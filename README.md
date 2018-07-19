@@ -62,4 +62,7 @@
 |808| (844) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](844-backspace-string-compare/solution.py) | [Note](844-backspace-string-compare/README.md) | medium | O(n) | O(n) | _stack_ |
 |811| (848) | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Python](848-shifting-letters/solution.py) | [Note](848-shifting-letters/README.md) | medium | O(n) | O(n) | _array_ | 
 |814| (851) | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [Python](851-loud-and-rich/solution.py) | [Note](851-loud-and-rich/README.md) | medium | O(V+E) | O(V+E) | _dp, dfs_ |
- |816| (853) | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](853-car-fleet/solution.py) | [Note](853-car-fleet/README.md) | medium | O(nlgn) | O(n) |_array_ |
+|816| (853) | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](853-car-fleet/solution.py) | [Note](853-car-fleet/README.md) | medium | O(nlgn) | O(n) |_array_ |
+|-| (846) | [Hands of Straights](https://leetcode.com/problems/hand-of-straights) | [Python](846-hand-of-straights/solution.py) | [Note](846-hand-of-straights/README.md) | medium | O(nw) | O(n) | _array_ |
+|-| (856) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [Python](856-score-of-parentheses/solution.py) | [Note](856-score-of-parentheses/README.md) | medium | O(n) | O(1) | _stack_ |
+|-| (858) | [Mirrot Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Python](858-mirror-reflection/solution.py) | [Note](858-mirror-reflection/README.md) | medium | O(logn) | O(1) | _math_ | 
